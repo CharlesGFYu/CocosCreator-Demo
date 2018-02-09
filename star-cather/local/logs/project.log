@@ -1,0 +1,56 @@
+2018-02-09T07:58:58.634Z - normal: Load ~/.CocosCreator/settings.json
+2018-02-09T07:58:58.639Z - normal: checking language setting...
+2018-02-09T07:58:58.639Z - normal: Language: zh
+2018-02-09T07:59:00.452Z - success: protocol editor-framework registered
+2018-02-09T07:59:00.452Z - success: protocol app registered
+2018-02-09T07:59:00.452Z - success: protocol theme registered
+2018-02-09T07:59:00.452Z - success: protocol packages registered
+2018-02-09T07:59:00.452Z - success: protocol unpack registerred
+2018-02-09T07:59:00.452Z - success: protocol disable-commonjs registerred
+2018-02-09T07:59:03.451Z - normal: failed to connect login server due to request timeout
+2018-02-09T07:59:03.455Z - normal: Check project E:\Charles\code\Cocos\CocosCreator\star-cather
+2018-02-09T07:59:03.461Z - normal: Initializing Cocos2d
+2018-02-09T07:59:03.673Z - normal: Initializing Asset Database
+2018-02-09T07:59:03.712Z - success: protocol uuid registerred
+2018-02-09T07:59:03.712Z - success: protocol db registerred
+2018-02-09T07:59:03.712Z - success: protocol thumbnail registerred
+2018-02-09T07:59:03.712Z - normal: Loading editor/builtin packages
+2018-02-09T07:59:03.731Z - success: anysdk loaded
+2018-02-09T07:59:03.845Z - success: assets loaded
+2018-02-09T07:59:03.847Z - success: builder loaded
+2018-02-09T07:59:03.849Z - success: cocos-analytics loaded
+2018-02-09T07:59:03.852Z - success: console loaded
+2018-02-09T07:59:03.854Z - success: hierarchy loaded
+2018-02-09T07:59:03.856Z - success: inspector loaded
+2018-02-09T07:59:03.857Z - success: keystore loaded
+2018-02-09T07:59:03.859Z - success: node-library loaded
+2018-02-09T07:59:03.860Z - success: package-asset loaded
+2018-02-09T07:59:03.862Z - success: preferences loaded
+2018-02-09T07:59:03.863Z - success: project-exporter loaded
+2018-02-09T07:59:03.877Z - success: project-importer loaded
+2018-02-09T07:59:03.879Z - success: project-settings loaded
+2018-02-09T07:59:03.881Z - success: ui-kit loaded
+2018-02-09T07:59:03.882Z - success: ui-grid loaded
+2018-02-09T07:59:03.884Z - success: scene loaded
+2018-02-09T07:59:03.885Z - success: sprite-editor loaded
+2018-02-09T07:59:03.888Z - success: store loaded
+2018-02-09T07:59:03.891Z - success: timeline loaded
+2018-02-09T07:59:03.891Z - normal: Loading builtin packages
+2018-02-09T07:59:03.893Z - success: asset-db-debugger loaded
+2018-02-09T07:59:03.894Z - success: code-editor loaded
+2018-02-09T07:59:03.894Z - success: color-picker loaded
+2018-02-09T07:59:03.895Z - success: package-manager loaded
+2018-02-09T07:59:03.898Z - success: sdkbox loaded
+2018-02-09T07:59:03.902Z - success: tester loaded
+2018-02-09T07:59:03.903Z - success: ui-kit-preview-extra loaded
+2018-02-09T07:59:03.904Z - success: ui-kit-preview loaded
+2018-02-09T07:59:03.905Z - success: ui-tree loaded
+2018-02-09T07:59:04.945Z - normal: Initializing project E:\Charles\code\Cocos\CocosCreator\star-cather
+2018-02-09T07:59:04.948Z - normal: Loading packages
+2018-02-09T07:59:04.951Z - normal: Watching packages
+2018-02-09T07:59:04.962Z - normal: Run Application
+2018-02-09T07:59:05.429Z - success: preview server running at http://localhost:7456
+2018-02-09T07:59:10.715Z - normal: 1.8.1
+2018-02-09T07:59:23.108Z - success: VS Code extension installed to C:\Users\v_guifuyu\.vscode\extensions
+2018-02-09T07:59:44.042Z - success: VS Code extension installed to C:\Users\v_guifuyu\.vscode\extensions
+2018-02-09T08:01:34.102Z - success: VS Code extension installed to C:\Users\v_guifuyu\.vscode\extensions
